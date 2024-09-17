@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es un trabajo práctico de JS incluye ejemplos de:
+Este proyecto es un trabajo práctico de TS incluye ejemplos de:
 --Fundamentos de TS, Manipulacion del DOM, Desarrollo de funciones y manejo de eventos, Uso de arrays y objetos, Validación de formularios, Uso de interfaces, Uso de types, Uso de enums.
 ## Requisitos
 Tener instalado Node.js en tu sistema operativo.
